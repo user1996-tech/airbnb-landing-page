@@ -16,8 +16,7 @@
                <a href="#" style="color: #000; text-decoration: underline">Get help from a host</a>
             </div>
             <div class="d-inline-block" style="padding-right: 50px;">
-               <div style="padding: 4px 15px 4px 15px; background-color: #e31c5e; border-radius: 10px;"> 
-                  <a class="d-flex align-items-center" style="color: #fff; font-weight: bold;" href="#">Create your listing</a>
+               <div style="padding: 4px 15px 4px 15px; background-color: #e31c5e; border-radius: 10px;"> <a class="d-flex align-items-center" style="color: #fff; font-weight: bold;" href="#">Create your listing</a>
                </div>
             </div>
          </div>
@@ -28,23 +27,65 @@
 
       <!-- Section 1 START --!>
       <div class="row" style="height: 450px;">
-         <img style="height: 35px; width: 35px; margin-top: 20px; margin-left: 40px;" src="./assets/airbnb_logo_white_2.png">
-         <div class="row text-white" style="font-weight: bold; font-size: 15px; position: absolute; left: 75px; top: 160px;">
-            BECOME A HOST
-         </div>
-         <div class="row">
-         </div>
-         <div class="row">
-         </div>
-         <div class="row">
-         </div>
          <img style="width: 100%; height: 450px; position: absolute; left: 0px; right: 0px; z-index: -1;" src="./assets/airbnb1.jpg">
+         <div class="d-flex align-items-start" style="flex-direction: column;">
+            <div class="row">
+               <img style="height: 35px; width: 35px; margin-top: 20px; margin-left: 50px;" src="./assets/airbnb_logo_white_2.png">
+            </div>
+            <div class="row text-white" style="font-weight: bold; font-size: 20px; margin-left: 60px; margin-top: 35px;"> 
+               BECOME A HOST
+            </div>
+            <div class="row text-white" style="font-weight: bold; font-size: 50px; line-height: 90%; width: 450px; margin-left: 60px; margin-top: 20px;"> 
+               A space to share, a world to gain
+            </div>
+            <div class="row text-white" style="font-size: 15px; width: 350px; margin-left: 60px; margin-top: 20px;">
+               Hosting can help you turn your extra space into extra income and pursue more of what you love.
+            </div>
+            <a href="#">
+               <div class="row text-white" style="font-weight: bold; font-size: 15px; margin-left: 60px; margin-top: 20px; background-color: #e61e4f; padding: 15px 20px 15px 20px; border-radius: 10px;">
+                  Get Started
+               </div>
+            </a>
+         </div>
       </div>
       <!-- Section 1 END --!>
 
-      <div class="row bg-success" style="height: 475px;">
-         <p>Section 2 (Your next chapter is made possible by hosting)</p>  
+      <!-- Section 2 START --!>
+      <div class="row" style="height: 200px; font-size: 40px; margin-left: 50px; margin-top: 30px; width: 400px; line-height: 95%;">
+         Your next chapter, Made possible by Hosting
       </div>
+      <div class="row" style="height: 275px;">
+         <div class="col-6">
+            <div class="row" style="margin-left: 50px; font-weight: bold; font-size: 25px;">
+               Welcome what's next
+            </div>
+            <div class="row" style="margin-left: 50px; margin-top: 15px; width: 280px;">
+               Enjoy the flexibility of being you own boss, earn extra income and make lifelong connections through hosting.  
+            </div>
+            <a href="#">
+               <div class="row" style="margin-left: 50px; margin-top: 20px; font-weight: bold; text-decoration: underline; color: #000;">
+                  Explore the world of hosting
+               </div>
+            </a>
+         </div>
+         <div class="col-6">
+            <div class="row" style="margin-left: 20px; font-weight: bold; font-size: 25px;">
+               Host with confidence 
+            </div>
+            <div class="row" style="margin-left: 20px; margin-top: 15px; width: 280px;">
+               From 24/7 support and our helpful Host community, to custom tools, insights and education, we're invested in your success.
+            </div>
+            <a href="#">
+               <div class="row" style="margin-left: 20px; margin-top: 20px; font-weight: bold; text-decoration: underline; color: #000">
+                  How we support Hosts
+               </div>
+            </a>
+         </div>
+         
+
+      </div>
+      <!-- Section 2 END --!>
+
       <div class="row bg-danger" style="height: 475px;">
          <p>Section 3 (scrollable banners)</p>  
       </div>

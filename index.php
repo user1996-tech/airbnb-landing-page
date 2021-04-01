@@ -95,14 +95,99 @@
       <div class="row bg-info" style="height: 450px;">
          <p>Section 5 (see how it works)</p>  
       </div>
-      <div class="row bg-light" style="height: 525px;">
-         <p>Section 6 (how we support you during COVID)</p>  
+      
+      <!-- Section 6 START --!>
+      <div class="row" style="height: 100px; font-size: 40px; margin-left: 50px; margin-top: 30px; font-weight: bold;">
+         How we support you
       </div>
-      <div class="row bg-dark" style="height: 500px;">
-         <p>Section 7 (start your hosting journey)</p>
+      <div class="row" style="height: 425px;">
+         <div class="col-4">
+            <div class="row" style="margin-left: 50px; font-weight: bold; font-size: 21px; width: 100px; line-height: 97%;">
+               Host protection programmes
+            </div>
+            <div class="row" style="margin-left: 50px; margin-top: 20px; width: 160px;">
+               To support you in the rare event of an incident, most Airbnb bookings include property damage protection and liability insurance of up to $1M USD.
+            </div>
+            <a href="#">
+               <div class="row" style="margin-left: 50px; margin-top: 20px; text-decoration: underline; color: #000; font-size: 15px;">
+                  How you're protected while hosting
+               </div>
+            </a>
+         </div>
+         <div class="col-4">
+            <div class="row" style="margin-left: 20px; font-weight: bold; font-size: 21px; width: 100px; line-height: 97%;">
+               COVID-19 safety guidelines
+            </div>
+            <div class="row" style="margin-left: 20px; margin-top: 20px; width: 160px;">
+               To help protect the health of our community, we've partnered with experts to create safety practices for everyone, plus a cleaning process for hosts. 
+            </div>
+            <a href="#">
+               <div class="row" style="margin-left: 20px; margin-top: 20px; text-decoration: underline; color: #000; font-size: 15px;">
+                  Get to know the enhanced cleaning process
+               </div>
+            </a>
+         </div>
+         <div class="col-4">
+            <div class="row" style="margin-left: 20px; font-weight: bold; font-size: 21px; width: 110px; line-height: 97%;">
+               High guest standards
+            </div>
+            <div class="row" style="margin-left: 20px; margin-top: 20px; width: 160px;">
+               To give Hosts peace of mind, we offer guest identification and let you check out reviews of guests before they bokk. Our new Guest Standards Policy sets higher expectations for behaviour.
+            </div>
+            <a href="#">
+               <div class="row" style="margin-left: 20px; margin-top: 20px; text-decoration: underline; color: #000; font-size: 15px;">
+                  Steps we take to help Hosts feel confident.
+               </div>
+            </a>
+         </div>
+         
+
       </div>
+      <!-- Section 6 END --!>
+
+      <!-- Section 7 START --!>
+      <div class="row" style="height: 500px;">
+         <img style="width: 100%; height: 500px; position: absolute; left: 0px; right: 0px; z-index: -1;" src="./assets/airbnb13.jpg">
+         <div class="d-flex align-items-start" style="flex-direction: column;">
+            <div class="row text-white" style="font-weight: bold; font-size: 35px; line-height: 90%; width: 450px; margin-left: 60px; margin-top: 150px; width: 400px;"> 
+               Start your hosting journey
+            </div>
+            <div class="row text-white" style="font-size: 15px; width: 350px; margin-left: 60px; margin-top: 20px;">
+               Let's get your listing set up, together. 
+            </div>
+            <a href="#">
+               <div class="row text-white" style="font-weight: bold; font-size: 15px; margin-left: 60px; margin-top: 20px; background-color: #e61e4f; padding: 15px 20px 15px 20px; border-radius: 10px;">
+                  Get Started
+               </div>
+            </a>
+         </div>
+      </div>
+      <!-- Section 7 END --!>
+
       <div class="row bg-white" style="height: 400px;">
-         <p>Section 8 (find out more)</p>
+         <div class="col-6">
+            <div class="row bg-white" style="width: 300px; font-size: 37px; font-weight: bold; line-height: 97%; margin-top: 40px; margin-left: 50px;">
+               Find out more and connect with expert Hosts
+            </div>
+            <div class="row bg-white" style="margin-left: 50px; margin-top: 30px;">
+               We'll share more about hosting and give you access to live webinars where experienced hosts can answer your questions. 
+            </div>
+         </div>
+         <div class="col-6">
+            <div class="row" style="margin-top: 40px;">
+               <input class="form-control form-control-lg" type="text" placeholder="Email address" style="font-size: 15px;">
+               <input class="form-control form-control-lg" type="text" placeholder="Phone number (optional)" style="font-size: 15px;">
+            </div>
+            <div class="row">
+               <input type="checkbox">
+               <div>
+                  I want to receive occasional insights and information from Airbnb about hosting and can unsubscribe at anytime. 
+               </div>
+            </div>
+            <div class="row">
+               By selecting 'Next', I agree that Airbnb will process my personal information in accordance with the <a href="#">Airbnb Privacy Policy</a>
+            </div>
+         </div>
       </div>
       <hr>
       <div class="row bg-primary" style="height: 450px;">

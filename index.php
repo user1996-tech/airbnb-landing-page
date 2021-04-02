@@ -3,6 +3,7 @@
    <head>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+      <script src="https://kit.fontawesome.com/98bd024d18.js" crossorigin="anonymous"></script>
       <title>Host your home on Airbnb</title>
    </head>
    <header>
@@ -197,27 +198,78 @@
 
       <!-- Section 9 START --!>
       <hr>
-      <div class="row" style="height: 450px; margin-left: 60px;">
-         <div class="col-12">
-            About 
-         </div>
-         <div class="row">
-            <div class="col-4">
-               <a href="#">How Airbnb works</a>
-            </div>
-            <div class="col-4">
-            </div>
-            <div class="col-4">
-            </div>
-         </div>
+      <div class="d-flex" style="height: auto; margin-left: 60px; flex-direction: column;">
+         <div style="font-weight: bold; font-size: 12px;">ABOUT</div>
+         <ul style="list-style: outside none none; padding: 0px; margin-top: 10px; font-size: 14px; display: flex; flex-wrap: wrap;">
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">How Airbnb works</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Newsroom</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Investors</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Airbnb Plus</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Airbnb Luxe</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">HotelTonight</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Airbnb for Work</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Made possible by Hosts</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Careers</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Founder's Letter</a></li>
+         </ul>
+         <hr>
+         <div style="font-weight: bold; font-size: 12px;">COMMUNITY</div>
+         <ul style="list-style: outside none none; padding: 0px; margin-top: 10px; font-size: 14px; display: flex; flex-wrap: wrap;">
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Diversity & Beloging</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Accessibility</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Airbnb Associates</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Frontline Stays</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Guest Referrals</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Airbnb.org</a></li>
+         </ul>
+         <hr>
+         <div style="font-weight: bold; font-size: 12px;">HOST</div>
+         <ul style="list-style: outside none none; padding: 0px; margin-top: 10px; font-size: 14px; display: flex; flex-wrap: wrap;">
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Host your home</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Host an Online Experience</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Host an Experience</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Reponsible hosting</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Resource Centre</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Community Centre</a></li>
+         </ul>
+         <hr>
+         <div style="font-weight: bold; font-size: 12px;">SUPPORT</div>
+         <ul style="list-style: outside none none; padding: 0px; margin-top: 10px; font-size: 14px; display: flex; flex-wrap: wrap;">
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Our COVID-19 Response</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Help Centre</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Cancellation options</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Neightbourhood Support</a></li>
+            <li style="flex-basis: 33.333%; margin-bottom: 10px;"><a href="#" style="color: #000;">Trust & Safety</a></li>
+         </ul>
+         
       </div>
       <hr>
       <!-- Section 9 END --!>
    </body>
    <footer>
-      <div class="row bg-secondary" style="height: 75px;">
-         <p>Footer</p>
+
+      <!-- Footer Section START --!>
+         <div class="container" style="height: 75px;">
+            <div class="row justify-content-center" style="margin-bottom: 10px;">
+               <i style="margin-right: 10px;" class="fa fa-globe"></i>
+               <div style="padding-bottom: 5px; font-size: 14px; font-weight: bold; text-decoration: underline;">English(AU)</div>
+               <i style="margin-left: 20px; margin-right: 10px;" class="fa fa-dollar-sign"></i>
+               <div style="padding-bottom: 5px; margin-right: 20px; font-size: 14px; font-weight: bold; text-decoration: underline;">AUD</div>
+               <i style="margin-left: 20px; margin-right: 10px;" class="fa fa-facebook-f"></i>
+               <i style="margin-left: 20px; margin-right: 10px;" class="fa fa-twitter"></i>
+               <i style="margin-left: 20px; margin-right: 10px;" class="fa fa-instagram"></i>
+         
+            </div>
+            <div class="row justify-content-center" style="font-size: 13px;">
+               2021 Airbnb, Inc. All rights reserved
+            </div>
+            <div class="row justify-content-center" style="font-size: 13px; padding-bottom: 20px;">
+               Privacy   .   Terms   .   Sitemap
+            </div>
+         </div>
       </div>
+      <!-- Footer Section END --!>
+
 
    </footer>
    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

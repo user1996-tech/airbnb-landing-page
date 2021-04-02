@@ -198,17 +198,15 @@
       <!-- Section 9 START --!>
       <hr>
       <div class="row" style="height: 450px; margin-left: 60px;">
-         <div class="col-12">
+         <div>
             About 
          </div>
-         <div class="row">
-            <div class="col-4">
-               <a href="#">How Airbnb works</a>
-            </div>
-            <div class="col-4">
-            </div>
-            <div class="col-4">
-            </div>
+         <div class="col-4">
+            <a href="#">How Airbnb works</a>
+         </div>
+         <div class="col-4">
+         </div>
+         <div class="col-4">
          </div>
       </div>
       <hr>
